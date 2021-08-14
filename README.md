@@ -15,22 +15,21 @@ This application starts with a homepage that allows the user to select between b
 This application uses the following to deploy and run:  
 -Express  
 -Mongoose  
--Node  
+-Node
 
 This application's API routes were also tested with:  
 -Insomnia Core  
--Morgan  
+-Morgan
 
 ## Authors
 
 Austin Baxley  
-AusBaxley@gmail.com  
+AusBaxley@gmail.com
 
-## GitHub Link  
+## GitHub Link
 
-https://github.com/abaxley2/Workout-Tracker  
+https://github.com/abaxley2/Workout-Tracker
 
-## Deployed Link  
+## Deployed Link
 
-https://peaceful-dawn-46696.herokuapp.com/  
-
+https://peaceful-dawn-46696.herokuapp.com/
