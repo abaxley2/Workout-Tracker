@@ -17,15 +17,15 @@ This application uses the following to deploy and run:
 -Mongoose  
 -Node  
 
-This application's API routes were also tested with:
--Insomnia Core
--Morgan
+This application's API routes were also tested with:  
+-Insomnia Core  
+-Morgan  
 
 ## Authors
 
-Austin Baxley
-AusBaxley@gmail.com
+Austin Baxley  
+AusBaxley@gmail.com  
 
-## GitHub Link
+## GitHub Link  
 
 https://github.com/abaxley2/Workout-Tracker
