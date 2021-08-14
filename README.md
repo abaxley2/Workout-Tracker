@@ -13,9 +13,9 @@ This application starts with a homepage that allows the user to select between b
 ## Dependencies
 
 This application uses the following to deploy and run:  
--Express
+-Express  
 -Mongoose  
--Node
+-Node  
 
 This application's API routes were also tested with:
 -Insomnia Core
