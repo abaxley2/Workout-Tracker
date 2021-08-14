@@ -6,9 +6,9 @@ This application is a demo of my abilities to use Mongoose object modeling to cr
 
 This application starts with a homepage that allows the user to select between beginning a workout and adding to an already started one. It then feeds the data for the user's workout into a database to track it and provide a dashboard where two graphs appear and present previous workout information.
 
-![Workout-Tracker Picture of Work](https://github.com/abaxley2/Workout-Tracker/images/tracker1.png)  
-![Workout-Tracker Picture of Work](https://github.com/abaxley2/Workout-Tracker/images/tracker2.png)  
-![Workout-Tracker Picture of Work](https://github.com/abaxley2/Workout-Tracker/images/tracker3.png)
+![Workout-Tracker Picture of Work](https://github.com/abaxley2/Workout-Tracker/blob/main/images/tracker1.png)  
+![Workout-Tracker Picture of Work](https://github.com/abaxley2/Workout-Tracker/blob/main/images/tracker2.png)  
+![Workout-Tracker Picture of Work](https://github.com/abaxley2/Workout-Tracker/blob/main/images/tracker3.png)
 
 ## Dependencies
 
